@@ -1,4 +1,4 @@
-# Lab 6: Inheritance with Lists
+# Inheritance with Lists
 
 In object-oriented programming, inheritance allows an existing class to be "extended" to create specialized subclasses.
 We call each subclass a "derived" or "child" class and the existing class the "parent" class.
